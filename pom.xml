@@ -29,7 +29,7 @@
 	<properties>
 	    <java.version>17</java.version>
 	    <sonar.host.url>http://13.206.5.177:9000</sonar.host.url>
-	    <sonar.login>47a361014bba8cb4fb09d1e7c7fd771ac559d5a2</sonar.login>
+	    <sonar.login>https://github.com/Pranshushar/SB-DEMO.git</sonar.login>
      </properties>
 
 	<dependencies>
